@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack AI",
+  "description": "Mobile-optimierte Web-App zum Tracken von Mahlzeiten und Nährwerten mittels KI-Fotoanalyse.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
